@@ -1,0 +1,22 @@
+# Python
+
+**pycache**/
+*.pyc
+
+# Virtual Environment
+
+venv/
+.env
+
+# Data
+
+data/raw/*
+data/processed/*
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# MLflow
+
+mlruns/
